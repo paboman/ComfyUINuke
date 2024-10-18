@@ -1,6 +1,10 @@
 # comfyUINuke
+
 ![Static Badge](https://img.shields.io/badge/Nuke_v12-PASS-green) ![Static Badge](https://img.shields.io/badge/Nuke_v13-PASS-green) ![Static Badge](https://img.shields.io/badge/Nuke_v14-PASS-green) ![Static Badge](https://img.shields.io/badge/Nuke_v15-PASS-green) 
 ![Static Badge](https://img.shields.io/badge/OSX-green) ![Static Badge](https://img.shields.io/badge/WIN-green) ![Static Badge](https://img.shields.io/badge/Linux-green) 
+
+This fork provides ONLY easier Installation instructions
+
 
 Use stable diffusion via comfyUI inside Nuke.
 Tutorials and proper documentation will follow.
